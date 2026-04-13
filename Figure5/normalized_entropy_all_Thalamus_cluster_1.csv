@@ -1,0 +1,14 @@
+"age","entropy","type","age_numeric","region","cluster"
+"6M",0.668676621431334,"Flux",6,"Thalamus",1
+"18M",0.719046998884176,"Flux",18,"Thalamus",1
+"21M",0.698232361533127,"Flux",21,"Thalamus",1
+"3M",0.760640302050262,"Gene",3,"Thalamus",1
+"12M",0.744624335790485,"Gene",12,"Thalamus",1
+"15M",0.757159300332936,"Gene",15,"Thalamus",1
+"18M",0.762388865109555,"Gene",18,"Thalamus",1
+"21M",0.755448893662049,"Gene",21,"Thalamus",1
+"26M",0.751611603849031,"Gene",26,"Thalamus",1
+"28M",0.76431860990337,"Gene",28,"Thalamus",1
+"6M",0.422994504941402,"Metabolite",6,"Thalamus",1
+"15M",0.375040700999715,"Metabolite",15,"Thalamus",1
+"21M",0.356452654906918,"Metabolite",21,"Thalamus",1

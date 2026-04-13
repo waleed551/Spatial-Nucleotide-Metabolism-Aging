@@ -1,0 +1,82 @@
+,gene_symbol,metabolite_degree,module_degree,total_degree,gene
+1,Aacs,1,1,2,Other
+2,Adpgk,1,1,2,Other
+3,Ahcy,1,1,2,Ahcy family
+4,Ahcyl1,1,1,2,Ahcy family
+5,Ahcyl2,1,1,2,Ahcy family
+6,Ak3,1,1,2,Ak family
+7,Ampd1,1,1,2,Ampd family
+8,Ampd2,1,1,2,Ampd family
+9,Ampd3,1,1,2,Ampd family
+10,Asns,1,1,2,Other
+11,Carns1,1,1,2,Other
+12,Gne,1,1,2,Other
+13,Prps1,1,1,2,Prps family
+14,Prps1l1,1,1,2,Prps family
+15,Prps2,1,1,2,Prps family
+16,Pygb,1,1,2,Other
+17,Acsbg1,1,2,3,Acs family
+18,Acsbg2,1,2,3,Acs family
+19,Acsl1,1,2,3,Acs family
+20,Acsl3,1,2,3,Acs family
+21,Acsl4,1,2,3,Acs family
+22,Acsl5,1,2,3,Acs family
+23,Acsl6,1,2,3,Acs family
+24,Adk,2,1,3,Other
+25,Ak8,1,2,3,Ak family
+26,Ass1,1,2,3,Other
+27,Atic,1,2,3,Other
+28,B4galt1,1,2,3,Other
+29,Slc27a5,1,2,3,Slc27a family
+30,Umps,1,2,3,Other
+31,Upp1,1,2,3,Upp family
+32,Upp2,1,2,3,Upp family
+33,Uprt,1,2,3,Other
+34,Xdh,1,2,3,Other
+35,Ak1,2,2,4,Ak family
+36,Ak2,2,2,4,Ak family
+37,Ak4,2,2,4,Ak family
+38,Ak5,2,2,4,Ak family
+39,Ak7,2,2,4,Ak family
+40,Aprt,2,2,4,Other
+41,Dctpp1,1,3,4,Other
+42,Dnmt1,3,1,4,Dnmt family
+43,Dnmt3a,3,1,4,Dnmt family
+44,Dnmt3b,3,1,4,Dnmt family
+45,Gmps,2,2,4,Other
+46,Rnf2,1,3,4,Other
+47,Slc27a2,1,3,4,Slc27a family
+48,Ada,3,2,5,Other
+49,Adsl,1,4,5,Other
+50,Dck,2,3,5,Other
+51,Entpd4,2,3,5,Entpd family
+52,Entpd5,2,3,5,Entpd family
+53,Entpd6,2,3,5,Entpd family
+54,Nudt2,3,2,5,Nudt family
+55,Nudt5,1,4,5,Nudt family
+56,Cant1,3,3,6,Other
+57,Cmpk1,1,5,6,Cmpk family
+58,Cmpk2,1,5,6,Cmpk family
+59,Hprt1,2,4,6,Other
+60,Uck1,4,3,7,Uck family
+61,Uck2,4,3,7,Uck family
+62,Uckl1,4,3,7,Uck family
+63,Aldh7a1,1,7,8,Other
+64,Entpd1,3,7,10,Entpd family
+65,Entpd3,3,7,10,Entpd family
+66,Entpd8,3,7,10,Entpd family
+67,Nme1,2,8,10,Nme family
+68,Nme2,2,8,10,Nme family
+69,Nme3,2,8,10,Nme family
+70,Nme4,2,8,10,Nme family
+71,Nme5,2,8,10,Nme family
+72,Nme6,2,8,10,Nme family
+73,Nme7,2,8,10,Nme family
+74,Pnp,4,8,12,Pnp
+75,Nt5c,10,14,24,Nt5 family
+76,Nt5c1a,10,14,24,Nt5 family
+77,Nt5c1b,10,14,24,Nt5 family
+78,Nt5c2,10,14,24,Nt5 family
+79,Nt5c3,10,14,24,Nt5 family
+80,Nt5e,10,14,24,Nt5 family
+81,Nt5m,10,14,24,Nt5 family

@@ -1,0 +1,848 @@
+"Sample","age"
+"Corpus callosum_17_Male_3",3
+"Corpus callosum_21_Male_3",3
+"Corpus callosum_25_Male_3",3
+"Corpus callosum_29_Male_3",3
+"Corpus callosum_33_Male_3",3
+"Corpus callosum_37_Female_3",3
+"Corpus callosum_41_Female_3",3
+"Corpus callosum_45_Female_3",3
+"Corpus callosum_49_Female_3",3
+"Corpus callosum_53_Female_3",3
+"Cerebellum_17_Male_3",3
+"Cerebellum_21_Male_3",3
+"Cerebellum_25_Male_3",3
+"Cerebellum_29_Male_3",3
+"Cerebellum_33_Male_3",3
+"Cerebellum_37_Female_3",3
+"Cerebellum_41_Female_3",3
+"Cerebellum_45_Female_3",3
+"Cerebellum_49_Female_3",3
+"Cerebellum_53_Female_3",3
+"Motor cortex_17_Male_3",3
+"Motor cortex_21_Male_3",3
+"Motor cortex_25_Male_3",3
+"Motor cortex_29_Male_3",3
+"Motor cortex_33_Male_3",3
+"Motor cortex_37_Female_3",3
+"Motor cortex_41_Female_3",3
+"Motor cortex_45_Female_3",3
+"Motor cortex_49_Female_3",3
+"Motor cortex_53_Female_3",3
+"Caudate putamen_17_Male_3",3
+"Caudate putamen_21_Male_3",3
+"Caudate putamen_29_Male_3",3
+"Caudate putamen_33_Male_3",3
+"Caudate putamen_37_Female_3",3
+"Caudate putamen_41_Female_3",3
+"Caudate putamen_45_Female_3",3
+"Caudate putamen_49_Female_3",3
+"Caudate putamen_53_Female_3",3
+"Entorhinal cortex_17_Male_3",3
+"Entorhinal cortex_21_Male_3",3
+"Entorhinal cortex_25_Male_3",3
+"Entorhinal cortex_29_Male_3",3
+"Entorhinal cortex_37_Female_3",3
+"Entorhinal cortex_41_Female_3",3
+"Entorhinal cortex_45_Female_3",3
+"Entorhinal cortex_49_Female_3",3
+"Entorhinal cortex_53_Female_3",3
+"Hippocampus (posterior)_17_Male_3",3
+"Hippocampus (posterior)_21_Male_3",3
+"Hippocampus (posterior)_25_Male_3",3
+"Hippocampus (posterior)_29_Male_3",3
+"Hippocampus (posterior)_33_Male_3",3
+"Hippocampus (posterior)_37_Female_3",3
+"Hippocampus (posterior)_41_Female_3",3
+"Hippocampus (posterior)_45_Female_3",3
+"Hippocampus (posterior)_49_Female_3",3
+"Hippocampus (posterior)_53_Female_3",3
+"Hippocampus (anterior)_17_Male_3",3
+"Hippocampus (anterior)_21_Male_3",3
+"Hippocampus (anterior)_25_Male_3",3
+"Hippocampus (anterior)_29_Male_3",3
+"Hippocampus (anterior)_33_Male_3",3
+"Hippocampus (anterior)_37_Female_3",3
+"Hippocampus (anterior)_41_Female_3",3
+"Hippocampus (anterior)_45_Female_3",3
+"Hippocampus (anterior)_49_Female_3",3
+"Hippocampus (anterior)_53_Female_3",3
+"Hypothalamus_17_Male_3",3
+"Hypothalamus_21_Male_3",3
+"Hypothalamus_25_Male_3",3
+"Hypothalamus_33_Male_3",3
+"Hypothalamus_37_Female_3",3
+"Hypothalamus_41_Female_3",3
+"Hypothalamus_45_Female_3",3
+"Hypothalamus_49_Female_3",3
+"Hypothalamus_53_Female_3",3
+"Medulla_17_Male_3",3
+"Medulla_21_Male_3",3
+"Medulla_25_Male_3",3
+"Medulla_29_Male_3",3
+"Medulla_33_Male_3",3
+"Medulla_37_Female_3",3
+"Medulla_41_Female_3",3
+"Medulla_45_Female_3",3
+"Medulla_49_Female_3",3
+"Medulla_53_Female_3",3
+"Olfactory bulb_17_Male_3",3
+"Olfactory bulb_21_Male_3",3
+"Olfactory bulb_25_Male_3",3
+"Olfactory bulb_29_Male_3",3
+"Olfactory bulb_33_Male_3",3
+"Olfactory bulb_37_Female_3",3
+"Olfactory bulb_41_Female_3",3
+"Olfactory bulb_45_Female_3",3
+"Olfactory bulb_49_Female_3",3
+"Olfactory bulb_53_Female_3",3
+"Choroid Plexus_17_Male_3",3
+"Choroid Plexus_21_Male_3",3
+"Choroid Plexus_25_Male_3",3
+"Choroid Plexus_29_Male_3",3
+"Choroid Plexus_33_Male_3",3
+"Choroid Plexus_37_Female_3",3
+"Choroid Plexus_41_Female_3",3
+"Choroid Plexus_45_Female_3",3
+"Choroid Plexus_49_Female_3",3
+"Choroid Plexus_53_Female_3",3
+"Pons_17_Male_3",3
+"Pons_21_Male_3",3
+"Pons_25_Male_3",3
+"Pons_29_Male_3",3
+"Pons_37_Female_3",3
+"Pons_41_Female_3",3
+"Pons_45_Female_3",3
+"Pons_49_Female_3",3
+"Pons_53_Female_3",3
+"Subventricular zone_17_Male_3",3
+"Subventricular zone_21_Male_3",3
+"Subventricular zone_25_Male_3",3
+"Subventricular zone_29_Male_3",3
+"Subventricular zone_33_Male_3",3
+"Subventricular zone_37_Female_3",3
+"Subventricular zone_41_Female_3",3
+"Subventricular zone_45_Female_3",3
+"Subventricular zone_49_Female_3",3
+"Subventricular zone_53_Female_3",3
+"Thalamus_17_Male_3",3
+"Thalamus_21_Male_3",3
+"Thalamus_25_Male_3",3
+"Thalamus_29_Male_3",3
+"Thalamus_33_Male_3",3
+"Thalamus_37_Female_3",3
+"Thalamus_41_Female_3",3
+"Thalamus_45_Female_3",3
+"Thalamus_49_Female_3",3
+"Thalamus_53_Female_3",3
+"Visual Cortex_17_Male_3",3
+"Visual Cortex_21_Male_3",3
+"Visual Cortex_25_Male_3",3
+"Visual Cortex_29_Male_3",3
+"Visual Cortex_33_Male_3",3
+"Visual Cortex_37_Female_3",3
+"Visual Cortex_41_Female_3",3
+"Visual Cortex_45_Female_3",3
+"Visual Cortex_49_Female_3",3
+"Visual Cortex_53_Female_3",3
+"Corpus callosum_10_Female_12",12
+"Corpus callosum_12_Male_12",12
+"Corpus callosum_13_Female_12",12
+"Corpus callosum_15_Male_12",12
+"Corpus callosum_3_Male_12",12
+"Corpus callosum_4_Female_12",12
+"Corpus callosum_6_Male_12",12
+"Corpus callosum_7_Female_12",12
+"Corpus callosum_9_Male_12",12
+"Cerebellum_1_Female_12",12
+"Cerebellum_10_Female_12",12
+"Cerebellum_12_Male_12",12
+"Cerebellum_13_Female_12",12
+"Cerebellum_15_Male_12",12
+"Cerebellum_3_Male_12",12
+"Cerebellum_6_Male_12",12
+"Cerebellum_7_Female_12",12
+"Cerebellum_9_Male_12",12
+"Motor cortex_1_Female_12",12
+"Motor cortex_10_Female_12",12
+"Motor cortex_12_Male_12",12
+"Motor cortex_13_Female_12",12
+"Motor cortex_15_Male_12",12
+"Motor cortex_3_Male_12",12
+"Motor cortex_4_Female_12",12
+"Motor cortex_6_Male_12",12
+"Motor cortex_7_Female_12",12
+"Motor cortex_9_Male_12",12
+"Caudate putamen_1_Female_12",12
+"Caudate putamen_10_Female_12",12
+"Caudate putamen_12_Male_12",12
+"Caudate putamen_13_Female_12",12
+"Caudate putamen_15_Male_12",12
+"Caudate putamen_3_Male_12",12
+"Caudate putamen_4_Female_12",12
+"Caudate putamen_6_Male_12",12
+"Caudate putamen_7_Female_12",12
+"Caudate putamen_9_Male_12",12
+"Entorhinal cortex_1_Female_12",12
+"Entorhinal cortex_10_Female_12",12
+"Entorhinal cortex_12_Male_12",12
+"Entorhinal cortex_13_Female_12",12
+"Entorhinal cortex_15_Male_12",12
+"Entorhinal cortex_7_Female_12",12
+"Entorhinal cortex_9_Male_12",12
+"Hippocampus (posterior)_1_Female_12",12
+"Hippocampus (posterior)_10_Female_12",12
+"Hippocampus (posterior)_12_Male_12",12
+"Hippocampus (posterior)_13_Female_12",12
+"Hippocampus (posterior)_15_Male_12",12
+"Hippocampus (posterior)_3_Male_12",12
+"Hippocampus (posterior)_4_Female_12",12
+"Hippocampus (posterior)_6_Male_12",12
+"Hippocampus (posterior)_7_Female_12",12
+"Hippocampus (posterior)_9_Male_12",12
+"Hippocampus (anterior)_1_Female_12",12
+"Hippocampus (anterior)_10_Female_12",12
+"Hippocampus (anterior)_12_Male_12",12
+"Hippocampus (anterior)_13_Female_12",12
+"Hippocampus (anterior)_15_Male_12",12
+"Hippocampus (anterior)_4_Female_12",12
+"Hippocampus (anterior)_6_Male_12",12
+"Hippocampus (anterior)_7_Female_12",12
+"Hippocampus (anterior)_9_Male_12",12
+"Hypothalamus_1_Female_12",12
+"Hypothalamus_10_Female_12",12
+"Hypothalamus_12_Male_12",12
+"Hypothalamus_15_Male_12",12
+"Hypothalamus_3_Male_12",12
+"Hypothalamus_4_Female_12",12
+"Hypothalamus_6_Male_12",12
+"Hypothalamus_7_Female_12",12
+"Hypothalamus_9_Male_12",12
+"Medulla_1_Female_12",12
+"Medulla_10_Female_12",12
+"Medulla_12_Male_12",12
+"Medulla_13_Female_12",12
+"Medulla_15_Male_12",12
+"Medulla_3_Male_12",12
+"Medulla_6_Male_12",12
+"Medulla_7_Female_12",12
+"Medulla_9_Male_12",12
+"Olfactory bulb_1_Female_12",12
+"Olfactory bulb_10_Female_12",12
+"Olfactory bulb_12_Male_12",12
+"Olfactory bulb_13_Female_12",12
+"Olfactory bulb_15_Male_12",12
+"Olfactory bulb_3_Male_12",12
+"Olfactory bulb_4_Female_12",12
+"Olfactory bulb_6_Male_12",12
+"Olfactory bulb_7_Female_12",12
+"Olfactory bulb_9_Male_12",12
+"Choroid Plexus_10_Female_12",12
+"Choroid Plexus_12_Male_12",12
+"Choroid Plexus_13_Female_12",12
+"Choroid Plexus_15_Male_12",12
+"Choroid Plexus_3_Male_12",12
+"Choroid Plexus_4_Female_12",12
+"Choroid Plexus_7_Female_12",12
+"Choroid Plexus_9_Male_12",12
+"Pons_1_Female_12",12
+"Pons_10_Female_12",12
+"Pons_12_Male_12",12
+"Pons_15_Male_12",12
+"Pons_3_Male_12",12
+"Pons_7_Female_12",12
+"Subventricular zone_1_Female_12",12
+"Subventricular zone_10_Female_12",12
+"Subventricular zone_12_Male_12",12
+"Subventricular zone_13_Female_12",12
+"Subventricular zone_15_Male_12",12
+"Subventricular zone_3_Male_12",12
+"Subventricular zone_6_Male_12",12
+"Subventricular zone_7_Female_12",12
+"Subventricular zone_9_Male_12",12
+"Thalamus_1_Female_12",12
+"Thalamus_10_Female_12",12
+"Thalamus_12_Male_12",12
+"Thalamus_13_Female_12",12
+"Thalamus_15_Male_12",12
+"Thalamus_3_Male_12",12
+"Thalamus_4_Female_12",12
+"Thalamus_6_Male_12",12
+"Thalamus_7_Female_12",12
+"Thalamus_9_Male_12",12
+"Visual Cortex_1_Female_12",12
+"Visual Cortex_10_Female_12",12
+"Visual Cortex_13_Female_12",12
+"Visual Cortex_15_Male_12",12
+"Visual Cortex_3_Male_12",12
+"Visual Cortex_4_Female_12",12
+"Visual Cortex_6_Male_12",12
+"Visual Cortex_7_Female_12",12
+"Corpus callosum_18_Male_15",15
+"Corpus callosum_22_Male_15",15
+"Corpus callosum_26_Male_15",15
+"Corpus callosum_30_Male_15",15
+"Corpus callosum_34_Male_15",15
+"Corpus callosum_38_Female_15",15
+"Corpus callosum_42_Female_15",15
+"Corpus callosum_46_Female_15",15
+"Corpus callosum_50_Female_15",15
+"Corpus callosum_54_Female_15",15
+"Cerebellum_18_Male_15",15
+"Cerebellum_22_Male_15",15
+"Cerebellum_26_Male_15",15
+"Cerebellum_30_Male_15",15
+"Cerebellum_34_Male_15",15
+"Cerebellum_38_Female_15",15
+"Cerebellum_42_Female_15",15
+"Cerebellum_46_Female_15",15
+"Cerebellum_50_Female_15",15
+"Cerebellum_54_Female_15",15
+"Motor cortex_18_Male_15",15
+"Motor cortex_22_Male_15",15
+"Motor cortex_26_Male_15",15
+"Motor cortex_30_Male_15",15
+"Motor cortex_34_Male_15",15
+"Motor cortex_38_Female_15",15
+"Motor cortex_42_Female_15",15
+"Motor cortex_46_Female_15",15
+"Motor cortex_50_Female_15",15
+"Motor cortex_54_Female_15",15
+"Caudate putamen_18_Male_15",15
+"Caudate putamen_22_Male_15",15
+"Caudate putamen_26_Male_15",15
+"Caudate putamen_30_Male_15",15
+"Caudate putamen_34_Male_15",15
+"Caudate putamen_38_Female_15",15
+"Caudate putamen_42_Female_15",15
+"Caudate putamen_46_Female_15",15
+"Caudate putamen_50_Female_15",15
+"Caudate putamen_54_Female_15",15
+"Entorhinal cortex_18_Male_15",15
+"Entorhinal cortex_22_Male_15",15
+"Entorhinal cortex_26_Male_15",15
+"Entorhinal cortex_30_Male_15",15
+"Entorhinal cortex_34_Male_15",15
+"Entorhinal cortex_38_Female_15",15
+"Entorhinal cortex_42_Female_15",15
+"Entorhinal cortex_46_Female_15",15
+"Entorhinal cortex_50_Female_15",15
+"Entorhinal cortex_54_Female_15",15
+"Hippocampus (posterior)_18_Male_15",15
+"Hippocampus (posterior)_22_Male_15",15
+"Hippocampus (posterior)_26_Male_15",15
+"Hippocampus (posterior)_30_Male_15",15
+"Hippocampus (posterior)_34_Male_15",15
+"Hippocampus (posterior)_38_Female_15",15
+"Hippocampus (posterior)_42_Female_15",15
+"Hippocampus (posterior)_46_Female_15",15
+"Hippocampus (posterior)_50_Female_15",15
+"Hippocampus (posterior)_54_Female_15",15
+"Hippocampus (anterior)_18_Male_15",15
+"Hippocampus (anterior)_22_Male_15",15
+"Hippocampus (anterior)_26_Male_15",15
+"Hippocampus (anterior)_30_Male_15",15
+"Hippocampus (anterior)_34_Male_15",15
+"Hippocampus (anterior)_38_Female_15",15
+"Hippocampus (anterior)_46_Female_15",15
+"Hippocampus (anterior)_50_Female_15",15
+"Hippocampus (anterior)_54_Female_15",15
+"Hypothalamus_18_Male_15",15
+"Hypothalamus_22_Male_15",15
+"Hypothalamus_26_Male_15",15
+"Hypothalamus_30_Male_15",15
+"Hypothalamus_34_Male_15",15
+"Hypothalamus_38_Female_15",15
+"Hypothalamus_42_Female_15",15
+"Hypothalamus_46_Female_15",15
+"Hypothalamus_50_Female_15",15
+"Hypothalamus_54_Female_15",15
+"Medulla_18_Male_15",15
+"Medulla_22_Male_15",15
+"Medulla_26_Male_15",15
+"Medulla_30_Male_15",15
+"Medulla_34_Male_15",15
+"Medulla_38_Female_15",15
+"Medulla_42_Female_15",15
+"Medulla_46_Female_15",15
+"Medulla_50_Female_15",15
+"Medulla_54_Female_15",15
+"Olfactory bulb_18_Male_15",15
+"Olfactory bulb_22_Male_15",15
+"Olfactory bulb_26_Male_15",15
+"Olfactory bulb_30_Male_15",15
+"Olfactory bulb_34_Male_15",15
+"Olfactory bulb_38_Female_15",15
+"Olfactory bulb_42_Female_15",15
+"Olfactory bulb_46_Female_15",15
+"Olfactory bulb_50_Female_15",15
+"Olfactory bulb_54_Female_15",15
+"Choroid Plexus_18_Male_15",15
+"Choroid Plexus_22_Male_15",15
+"Choroid Plexus_26_Male_15",15
+"Choroid Plexus_30_Male_15",15
+"Choroid Plexus_34_Male_15",15
+"Choroid Plexus_38_Female_15",15
+"Choroid Plexus_42_Female_15",15
+"Choroid Plexus_46_Female_15",15
+"Choroid Plexus_50_Female_15",15
+"Choroid Plexus_54_Female_15",15
+"Pons_18_Male_15",15
+"Pons_22_Male_15",15
+"Pons_26_Male_15",15
+"Pons_30_Male_15",15
+"Pons_34_Male_15",15
+"Pons_38_Female_15",15
+"Pons_42_Female_15",15
+"Pons_50_Female_15",15
+"Pons_54_Female_15",15
+"Subventricular zone_18_Male_15",15
+"Subventricular zone_22_Male_15",15
+"Subventricular zone_26_Male_15",15
+"Subventricular zone_30_Male_15",15
+"Subventricular zone_34_Male_15",15
+"Subventricular zone_38_Female_15",15
+"Subventricular zone_42_Female_15",15
+"Subventricular zone_46_Female_15",15
+"Subventricular zone_50_Female_15",15
+"Subventricular zone_54_Female_15",15
+"Thalamus_18_Male_15",15
+"Thalamus_22_Male_15",15
+"Thalamus_26_Male_15",15
+"Thalamus_30_Male_15",15
+"Thalamus_34_Male_15",15
+"Thalamus_38_Female_15",15
+"Thalamus_42_Female_15",15
+"Thalamus_46_Female_15",15
+"Thalamus_50_Female_15",15
+"Thalamus_54_Female_15",15
+"Visual Cortex_18_Male_15",15
+"Visual Cortex_22_Male_15",15
+"Visual Cortex_26_Male_15",15
+"Visual Cortex_30_Male_15",15
+"Visual Cortex_34_Male_15",15
+"Visual Cortex_38_Female_15",15
+"Visual Cortex_42_Female_15",15
+"Visual Cortex_46_Female_15",15
+"Visual Cortex_50_Female_15",15
+"Visual Cortex_54_Female_15",15
+"Corpus callosum_19_Male_18",18
+"Corpus callosum_23_Male_18",18
+"Corpus callosum_27_Male_18",18
+"Corpus callosum_31_Male_18",18
+"Corpus callosum_35_Male_18",18
+"Corpus callosum_39_Female_18",18
+"Corpus callosum_43_Female_18",18
+"Corpus callosum_47_Female_18",18
+"Corpus callosum_51_Female_18",18
+"Corpus callosum_55_Female_18",18
+"Cerebellum_19_Male_18",18
+"Cerebellum_23_Male_18",18
+"Cerebellum_27_Male_18",18
+"Cerebellum_31_Male_18",18
+"Cerebellum_35_Male_18",18
+"Cerebellum_39_Female_18",18
+"Cerebellum_43_Female_18",18
+"Cerebellum_47_Female_18",18
+"Cerebellum_51_Female_18",18
+"Cerebellum_55_Female_18",18
+"Motor cortex_19_Male_18",18
+"Motor cortex_23_Male_18",18
+"Motor cortex_27_Male_18",18
+"Motor cortex_31_Male_18",18
+"Motor cortex_35_Male_18",18
+"Motor cortex_39_Female_18",18
+"Motor cortex_43_Female_18",18
+"Motor cortex_47_Female_18",18
+"Motor cortex_51_Female_18",18
+"Motor cortex_55_Female_18",18
+"Caudate putamen_19_Male_18",18
+"Caudate putamen_23_Male_18",18
+"Caudate putamen_27_Male_18",18
+"Caudate putamen_31_Male_18",18
+"Caudate putamen_35_Male_18",18
+"Caudate putamen_39_Female_18",18
+"Caudate putamen_43_Female_18",18
+"Caudate putamen_47_Female_18",18
+"Caudate putamen_51_Female_18",18
+"Caudate putamen_55_Female_18",18
+"Entorhinal cortex_19_Male_18",18
+"Entorhinal cortex_23_Male_18",18
+"Entorhinal cortex_35_Male_18",18
+"Entorhinal cortex_39_Female_18",18
+"Entorhinal cortex_43_Female_18",18
+"Entorhinal cortex_47_Female_18",18
+"Entorhinal cortex_51_Female_18",18
+"Entorhinal cortex_55_Female_18",18
+"Hippocampus (posterior)_19_Male_18",18
+"Hippocampus (posterior)_23_Male_18",18
+"Hippocampus (posterior)_27_Male_18",18
+"Hippocampus (posterior)_31_Male_18",18
+"Hippocampus (posterior)_35_Male_18",18
+"Hippocampus (posterior)_39_Female_18",18
+"Hippocampus (posterior)_43_Female_18",18
+"Hippocampus (posterior)_47_Female_18",18
+"Hippocampus (posterior)_51_Female_18",18
+"Hippocampus (posterior)_55_Female_18",18
+"Hippocampus (anterior)_19_Male_18",18
+"Hippocampus (anterior)_23_Male_18",18
+"Hippocampus (anterior)_27_Male_18",18
+"Hippocampus (anterior)_31_Male_18",18
+"Hippocampus (anterior)_35_Male_18",18
+"Hippocampus (anterior)_39_Female_18",18
+"Hippocampus (anterior)_43_Female_18",18
+"Hippocampus (anterior)_47_Female_18",18
+"Hippocampus (anterior)_51_Female_18",18
+"Hippocampus (anterior)_55_Female_18",18
+"Hypothalamus_19_Male_18",18
+"Hypothalamus_23_Male_18",18
+"Hypothalamus_27_Male_18",18
+"Hypothalamus_31_Male_18",18
+"Hypothalamus_35_Male_18",18
+"Hypothalamus_39_Female_18",18
+"Hypothalamus_43_Female_18",18
+"Hypothalamus_47_Female_18",18
+"Hypothalamus_51_Female_18",18
+"Hypothalamus_55_Female_18",18
+"Medulla_19_Male_18",18
+"Medulla_23_Male_18",18
+"Medulla_27_Male_18",18
+"Medulla_31_Male_18",18
+"Medulla_35_Male_18",18
+"Medulla_39_Female_18",18
+"Medulla_43_Female_18",18
+"Medulla_47_Female_18",18
+"Medulla_51_Female_18",18
+"Medulla_55_Female_18",18
+"Olfactory bulb_19_Male_18",18
+"Olfactory bulb_23_Male_18",18
+"Olfactory bulb_27_Male_18",18
+"Olfactory bulb_31_Male_18",18
+"Olfactory bulb_35_Male_18",18
+"Olfactory bulb_39_Female_18",18
+"Olfactory bulb_43_Female_18",18
+"Olfactory bulb_47_Female_18",18
+"Olfactory bulb_51_Female_18",18
+"Olfactory bulb_55_Female_18",18
+"Choroid Plexus_19_Male_18",18
+"Choroid Plexus_23_Male_18",18
+"Choroid Plexus_27_Male_18",18
+"Choroid Plexus_31_Male_18",18
+"Choroid Plexus_35_Male_18",18
+"Choroid Plexus_39_Female_18",18
+"Choroid Plexus_43_Female_18",18
+"Choroid Plexus_47_Female_18",18
+"Choroid Plexus_51_Female_18",18
+"Choroid Plexus_55_Female_18",18
+"Pons_19_Male_18",18
+"Pons_23_Male_18",18
+"Pons_31_Male_18",18
+"Pons_35_Male_18",18
+"Pons_39_Female_18",18
+"Pons_43_Female_18",18
+"Pons_47_Female_18",18
+"Pons_51_Female_18",18
+"Pons_55_Female_18",18
+"Subventricular zone_23_Male_18",18
+"Subventricular zone_27_Male_18",18
+"Subventricular zone_31_Male_18",18
+"Subventricular zone_35_Male_18",18
+"Subventricular zone_39_Female_18",18
+"Subventricular zone_43_Female_18",18
+"Subventricular zone_47_Female_18",18
+"Subventricular zone_51_Female_18",18
+"Subventricular zone_55_Female_18",18
+"Thalamus_19_Male_18",18
+"Thalamus_23_Male_18",18
+"Thalamus_27_Male_18",18
+"Thalamus_31_Male_18",18
+"Thalamus_35_Male_18",18
+"Thalamus_39_Female_18",18
+"Thalamus_43_Female_18",18
+"Thalamus_47_Female_18",18
+"Thalamus_51_Female_18",18
+"Thalamus_55_Female_18",18
+"Visual Cortex_19_Male_18",18
+"Visual Cortex_23_Male_18",18
+"Visual Cortex_27_Male_18",18
+"Visual Cortex_31_Male_18",18
+"Visual Cortex_35_Male_18",18
+"Visual Cortex_39_Female_18",18
+"Visual Cortex_43_Female_18",18
+"Visual Cortex_47_Female_18",18
+"Visual Cortex_51_Female_18",18
+"Visual Cortex_55_Female_18",18
+"Corpus callosum_16_Male_21",21
+"Corpus callosum_20_Male_21",21
+"Corpus callosum_24_Male_21",21
+"Corpus callosum_28_Male_21",21
+"Corpus callosum_32_Male_21",21
+"Corpus callosum_36_Male_21",21
+"Corpus callosum_40_Female_21",21
+"Corpus callosum_44_Female_21",21
+"Corpus callosum_48_Female_21",21
+"Corpus callosum_52_Female_21",21
+"Corpus callosum_56_Female_21",21
+"Cerebellum_16_Male_21",21
+"Cerebellum_20_Male_21",21
+"Cerebellum_24_Male_21",21
+"Cerebellum_28_Male_21",21
+"Cerebellum_32_Male_21",21
+"Cerebellum_36_Male_21",21
+"Cerebellum_40_Female_21",21
+"Cerebellum_44_Female_21",21
+"Cerebellum_48_Female_21",21
+"Cerebellum_52_Female_21",21
+"Cerebellum_56_Female_21",21
+"Motor cortex_16_Male_21",21
+"Motor cortex_20_Male_21",21
+"Motor cortex_24_Male_21",21
+"Motor cortex_28_Male_21",21
+"Motor cortex_32_Male_21",21
+"Motor cortex_36_Male_21",21
+"Motor cortex_40_Female_21",21
+"Motor cortex_44_Female_21",21
+"Motor cortex_48_Female_21",21
+"Motor cortex_52_Female_21",21
+"Motor cortex_56_Female_21",21
+"Caudate putamen_16_Male_21",21
+"Caudate putamen_20_Male_21",21
+"Caudate putamen_24_Male_21",21
+"Caudate putamen_28_Male_21",21
+"Caudate putamen_32_Male_21",21
+"Caudate putamen_36_Male_21",21
+"Caudate putamen_40_Female_21",21
+"Caudate putamen_44_Female_21",21
+"Caudate putamen_48_Female_21",21
+"Caudate putamen_52_Female_21",21
+"Caudate putamen_56_Female_21",21
+"Entorhinal cortex_16_Male_21",21
+"Entorhinal cortex_20_Male_21",21
+"Entorhinal cortex_24_Male_21",21
+"Entorhinal cortex_28_Male_21",21
+"Entorhinal cortex_32_Male_21",21
+"Entorhinal cortex_36_Male_21",21
+"Entorhinal cortex_40_Female_21",21
+"Entorhinal cortex_44_Female_21",21
+"Entorhinal cortex_48_Female_21",21
+"Entorhinal cortex_52_Female_21",21
+"Entorhinal cortex_56_Female_21",21
+"Hippocampus (posterior)_16_Male_21",21
+"Hippocampus (posterior)_20_Male_21",21
+"Hippocampus (posterior)_24_Male_21",21
+"Hippocampus (posterior)_28_Male_21",21
+"Hippocampus (posterior)_32_Male_21",21
+"Hippocampus (posterior)_36_Male_21",21
+"Hippocampus (posterior)_40_Female_21",21
+"Hippocampus (posterior)_44_Female_21",21
+"Hippocampus (posterior)_52_Female_21",21
+"Hippocampus (posterior)_56_Female_21",21
+"Hippocampus (anterior)_16_Male_21",21
+"Hippocampus (anterior)_20_Male_21",21
+"Hippocampus (anterior)_24_Male_21",21
+"Hippocampus (anterior)_28_Male_21",21
+"Hippocampus (anterior)_32_Male_21",21
+"Hippocampus (anterior)_36_Male_21",21
+"Hippocampus (anterior)_40_Female_21",21
+"Hippocampus (anterior)_44_Female_21",21
+"Hippocampus (anterior)_48_Female_21",21
+"Hippocampus (anterior)_52_Female_21",21
+"Hippocampus (anterior)_56_Female_21",21
+"Hypothalamus_16_Male_21",21
+"Hypothalamus_20_Male_21",21
+"Hypothalamus_24_Male_21",21
+"Hypothalamus_28_Male_21",21
+"Hypothalamus_32_Male_21",21
+"Hypothalamus_36_Male_21",21
+"Hypothalamus_40_Female_21",21
+"Hypothalamus_44_Female_21",21
+"Hypothalamus_48_Female_21",21
+"Hypothalamus_52_Female_21",21
+"Hypothalamus_56_Female_21",21
+"Medulla_16_Male_21",21
+"Medulla_20_Male_21",21
+"Medulla_24_Male_21",21
+"Medulla_28_Male_21",21
+"Medulla_32_Male_21",21
+"Medulla_36_Male_21",21
+"Medulla_40_Female_21",21
+"Medulla_44_Female_21",21
+"Medulla_48_Female_21",21
+"Medulla_52_Female_21",21
+"Medulla_56_Female_21",21
+"Olfactory bulb_16_Male_21",21
+"Olfactory bulb_20_Male_21",21
+"Olfactory bulb_24_Male_21",21
+"Olfactory bulb_28_Male_21",21
+"Olfactory bulb_36_Male_21",21
+"Olfactory bulb_40_Female_21",21
+"Olfactory bulb_44_Female_21",21
+"Olfactory bulb_48_Female_21",21
+"Olfactory bulb_52_Female_21",21
+"Olfactory bulb_56_Female_21",21
+"Choroid Plexus_16_Male_21",21
+"Choroid Plexus_20_Male_21",21
+"Choroid Plexus_24_Male_21",21
+"Choroid Plexus_28_Male_21",21
+"Choroid Plexus_32_Male_21",21
+"Choroid Plexus_36_Male_21",21
+"Choroid Plexus_40_Female_21",21
+"Choroid Plexus_44_Female_21",21
+"Choroid Plexus_48_Female_21",21
+"Choroid Plexus_52_Female_21",21
+"Choroid Plexus_56_Female_21",21
+"Pons_16_Male_21",21
+"Pons_20_Male_21",21
+"Pons_24_Male_21",21
+"Pons_28_Male_21",21
+"Pons_32_Male_21",21
+"Pons_36_Male_21",21
+"Pons_40_Female_21",21
+"Pons_44_Female_21",21
+"Pons_48_Female_21",21
+"Pons_52_Female_21",21
+"Pons_56_Female_21",21
+"Subventricular zone_16_Male_21",21
+"Subventricular zone_20_Male_21",21
+"Subventricular zone_24_Male_21",21
+"Subventricular zone_28_Male_21",21
+"Subventricular zone_32_Male_21",21
+"Subventricular zone_36_Male_21",21
+"Subventricular zone_40_Female_21",21
+"Subventricular zone_44_Female_21",21
+"Subventricular zone_52_Female_21",21
+"Subventricular zone_56_Female_21",21
+"Thalamus_16_Male_21",21
+"Thalamus_20_Male_21",21
+"Thalamus_24_Male_21",21
+"Thalamus_28_Male_21",21
+"Thalamus_32_Male_21",21
+"Thalamus_36_Male_21",21
+"Thalamus_40_Female_21",21
+"Thalamus_44_Female_21",21
+"Thalamus_48_Female_21",21
+"Thalamus_52_Female_21",21
+"Thalamus_56_Female_21",21
+"Visual Cortex_16_Male_21",21
+"Visual Cortex_20_Male_21",21
+"Visual Cortex_24_Male_21",21
+"Visual Cortex_28_Male_21",21
+"Visual Cortex_32_Male_21",21
+"Visual Cortex_36_Male_21",21
+"Visual Cortex_40_Female_21",21
+"Visual Cortex_44_Female_21",21
+"Visual Cortex_48_Female_21",21
+"Visual Cortex_52_Female_21",21
+"Visual Cortex_56_Female_21",21
+"Corpus callosum_11_Male_26",26
+"Corpus callosum_14_Male_26",26
+"Corpus callosum_5_Male_26",26
+"Corpus callosum_8_Male_26",26
+"Cerebellum_11_Male_26",26
+"Cerebellum_14_Male_26",26
+"Cerebellum_2_Male_26",26
+"Cerebellum_5_Male_26",26
+"Cerebellum_8_Male_26",26
+"Motor cortex_11_Male_26",26
+"Motor cortex_14_Male_26",26
+"Motor cortex_2_Male_26",26
+"Motor cortex_5_Male_26",26
+"Motor cortex_8_Male_26",26
+"Caudate putamen_11_Male_26",26
+"Caudate putamen_14_Male_26",26
+"Caudate putamen_2_Male_26",26
+"Caudate putamen_5_Male_26",26
+"Caudate putamen_8_Male_26",26
+"Entorhinal cortex_14_Male_26",26
+"Entorhinal cortex_5_Male_26",26
+"Entorhinal cortex_8_Male_26",26
+"Hippocampus (posterior)_11_Male_26",26
+"Hippocampus (posterior)_14_Male_26",26
+"Hippocampus (posterior)_2_Male_26",26
+"Hippocampus (posterior)_5_Male_26",26
+"Hippocampus (posterior)_8_Male_26",26
+"Hippocampus (anterior)_11_Male_26",26
+"Hippocampus (anterior)_14_Male_26",26
+"Hippocampus (anterior)_2_Male_26",26
+"Hippocampus (anterior)_5_Male_26",26
+"Hippocampus (anterior)_8_Male_26",26
+"Hypothalamus_11_Male_26",26
+"Hypothalamus_14_Male_26",26
+"Hypothalamus_2_Male_26",26
+"Hypothalamus_8_Male_26",26
+"Medulla_11_Male_26",26
+"Medulla_14_Male_26",26
+"Medulla_2_Male_26",26
+"Medulla_5_Male_26",26
+"Medulla_8_Male_26",26
+"Olfactory bulb_11_Male_26",26
+"Olfactory bulb_14_Male_26",26
+"Olfactory bulb_2_Male_26",26
+"Olfactory bulb_5_Male_26",26
+"Olfactory bulb_8_Male_26",26
+"Choroid Plexus_11_Male_26",26
+"Choroid Plexus_14_Male_26",26
+"Choroid Plexus_2_Male_26",26
+"Choroid Plexus_5_Male_26",26
+"Choroid Plexus_8_Male_26",26
+"Pons_11_Male_26",26
+"Pons_2_Male_26",26
+"Pons_5_Male_26",26
+"Pons_8_Male_26",26
+"Subventricular zone_11_Male_26",26
+"Subventricular zone_14_Male_26",26
+"Subventricular zone_5_Male_26",26
+"Subventricular zone_8_Male_26",26
+"Thalamus_11_Male_26",26
+"Thalamus_14_Male_26",26
+"Thalamus_2_Male_26",26
+"Thalamus_5_Male_26",26
+"Thalamus_8_Male_26",26
+"Visual Cortex_11_Male_26",26
+"Visual Cortex_14_Male_26",26
+"Visual Cortex_2_Male_26",26
+"Visual Cortex_8_Male_26",26
+"Corpus callosum_57_Male_28",28
+"Corpus callosum_58_Male_28",28
+"Corpus callosum_59_Male_28",28
+"Cerebellum_57_Male_28",28
+"Cerebellum_58_Male_28",28
+"Cerebellum_59_Male_28",28
+"Motor cortex_57_Male_28",28
+"Motor cortex_58_Male_28",28
+"Motor cortex_59_Male_28",28
+"Caudate putamen_57_Male_28",28
+"Caudate putamen_58_Male_28",28
+"Caudate putamen_59_Male_28",28
+"Entorhinal cortex_57_Male_28",28
+"Entorhinal cortex_58_Male_28",28
+"Entorhinal cortex_59_Male_28",28
+"Hippocampus (posterior)_57_Male_28",28
+"Hippocampus (posterior)_58_Male_28",28
+"Hippocampus (posterior)_59_Male_28",28
+"Hippocampus (anterior)_57_Male_28",28
+"Hippocampus (anterior)_58_Male_28",28
+"Hippocampus (anterior)_59_Male_28",28
+"Hypothalamus_57_Male_28",28
+"Hypothalamus_58_Male_28",28
+"Medulla_57_Male_28",28
+"Medulla_58_Male_28",28
+"Medulla_59_Male_28",28
+"Olfactory bulb_57_Male_28",28
+"Olfactory bulb_58_Male_28",28
+"Olfactory bulb_59_Male_28",28
+"Choroid Plexus_57_Male_28",28
+"Choroid Plexus_58_Male_28",28
+"Choroid Plexus_59_Male_28",28
+"Pons_57_Male_28",28
+"Pons_58_Male_28",28
+"Pons_59_Male_28",28
+"Subventricular zone_57_Male_28",28
+"Subventricular zone_58_Male_28",28
+"Subventricular zone_59_Male_28",28
+"Thalamus_57_Male_28",28
+"Thalamus_58_Male_28",28
+"Thalamus_59_Male_28",28
+"Visual Cortex_57_Male_28",28
+"Visual Cortex_58_Male_28",28
+"Visual Cortex_59_Male_28",28
