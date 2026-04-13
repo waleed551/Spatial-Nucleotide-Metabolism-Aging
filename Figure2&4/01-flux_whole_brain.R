@@ -1,4 +1,4 @@
-setwd("D:/Koziol_lab/Chenyang_paper/My Updates/Code/Figure2")
+setwd("D:/Koziol_lab/Spatial-Nucleotide-Metabolism-Aging/Figure2")
 
 library(readxl)
 library(tools)

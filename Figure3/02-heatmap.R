@@ -8,7 +8,7 @@ library(pheatmap)
 library(writexl)
 library(openxlsx)
 
-setwd("D:/Koziol_lab/Chenyang_paper/My Updates/Code/Figure3")
+setwd("D:/Koziol_lab/Spatial-Nucleotide-Metabolism-Aging/Figure3")
 
 file_path <- "sum_normalized_data.xlsx"
 data <- read_excel(file_path)

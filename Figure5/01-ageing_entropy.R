@@ -1,4 +1,4 @@
-setwd("/Users/freya/Desktop/cibr/paper-draft/figures/Figure5")
+setwd("D:/Koziol_lab/Spatial-Nucleotide-Metabolism-Aging/Figure5")
 
 library(tidyverse)
 library(tibble)
@@ -67,15 +67,15 @@ get_entropy_by_age <- function(df, label) {
 ###############################################################################
 # 2. File paths
 ###############################################################################
-figure2_root <- "/Users/freya/Desktop/cibr/paper-draft/figures/Figure2/Figure2_thalamus_integrated_k3_unique_results"
+figure2_root <- "D:/Koziol_lab/Spatial-Nucleotide-Metabolism-Aging/Figure2&4/Figure2_thalamus_integrated_k3_unique_results"
 figure2_tables <- file.path(figure2_root, "01_tables")
 
 file_gene_expr_annotated <- file.path(figure2_tables, "filtered_expression_annotated_Thalamus.csv")
 file_cluster_assignment <- file.path(figure2_tables, "clusters_Thalamus_k3.csv")
 
-file_gene_module_metabolite <- "/Users/freya/Desktop/cibr/paper-draft/figures/Figure2/Figure2_code1_whole_brain_results/01_tables/gene_module_metabolite.csv"
-file_metabolite_raw <- "/Users/freya/Desktop/cibr/paper-draft/figures/Figure2/sum_normalized_data.xlsx"
-file_flux_raw <- "/Users/freya/Desktop/cibr/paper-draft/figures/Figure2/region_flux_csv/all_flux_data_long.csv"
+file_gene_module_metabolite <- "D:/Koziol_lab/Spatial-Nucleotide-Metabolism-Aging/Figure2&4/Figure2_code1_whole_brain_results/01_tables/gene_module_metabolite.csv"
+file_metabolite_raw <- "D:/Koziol_lab/Spatial-Nucleotide-Metabolism-Aging/Figure2&4/sum_normalized_data.xlsx"
+file_flux_raw <- "D:/Koziol_lab/Spatial-Nucleotide-Metabolism-Aging/Figure2&4/region_flux_csv/all_flux_data_long.csv"
 
 ###############################################################################
 # 3. Input checks

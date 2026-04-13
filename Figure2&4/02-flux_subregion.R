@@ -1,4 +1,4 @@
-setwd("/Users/freya/Desktop/cibr/paper-draft/figures/Figure2")
+setwd("D:/Koziol_lab/Spatial-Nucleotide-Metabolism-Aging/Figure2")
 
 library(readxl)
 library(dplyr)

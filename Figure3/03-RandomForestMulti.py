@@ -16,9 +16,9 @@ import os
 traits="age"
 traits2="region"
 
-os.chdir("/Users/freya/Documents/RProjects/MSI/20250311-WT-3-age/random_forest/"+traits)
+os.chdir("D:/Koziol_lab/Spatial-Nucleotide-Metabolism-Aging/Figure3/MSI/20250311-WT-3-age/random_forest/"+traits)
 # file_path = './converted_data.xlsx'
-file_path = '/Users/freya/Documents/RProjects/MSI/20250311-WT-3-age/heatmap/wide_data.xlsx'
+file_path = 'D:/Koziol_lab/Spatial-Nucleotide-Metabolism-Aging/Figure3/MSI/20250311-WT-3-age/heatmap/wide_data.xlsx'
 
 data = pd.read_excel(file_path)
 data[traits] = data[traits].astype('category')

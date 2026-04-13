@@ -1,4 +1,4 @@
-setwd("D:/Koziol_lab/Chenyang_paper/My Updates/Code/Figure3")
+setwd("D:/Koziol_lab/Spatial-Nucleotide-Metabolism-Aging/Figure3")
 # 加载必要的包
 library(ggplot2)
 library(reshape2)

@@ -1,4 +1,4 @@
-setwd("D:/Koziol_lab/Chenyang_paper/My Updates/Code/Figure1")
+setwd("D:/Koziol_lab/Spatial-Nucleotide-Metabolism-Aging/Figure1")
 load("dds_BulkSeq_Aging.bin")
 
 library(readxl)
